@@ -1,4 +1,4 @@
-iamlamode-dev
+iamlamode
 =============
 
 Repo pour IAmLaMode
